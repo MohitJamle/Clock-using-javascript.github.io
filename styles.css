@@ -4,7 +4,6 @@
 }
 body {
   background-color: aqua;
-  background: url(infinite3.gif);
 }
 li:hover {
   color: rgb(0, 58, 247);
